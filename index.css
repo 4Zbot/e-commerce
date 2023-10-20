@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-ava {
+    height: 42px;
+    margin-left: 12px;
+
+}
+
+.nav-ava:hover {
+    padding: 2px;
+    border-radius: 50%;
+    background-color: #ff7d1b;
+    margin-left: 12px;
+}
+
+.nav-con {
+    padding: 16px;
+}
+
+
+.big-shoe {
+    height: 100%;
+    width: 100%;
+    border-radius: 12px;
+}
+
+.shoes {
+    height: 140px;
+    border-radius: 25px;
+    /* padding: 15px; */
+    /* margin-top: 10px; */
+}
+
+
+.sneaker-text {
+    color: hsl(26, 100%, 55%);
+    font-size: 12px;
+}
+
+.sneaker-text2 {
+    font-weight: bold;
+}
+
+.sneaker-para {
+    font-size: 13px;
+    font-weight: 400;
+    color: rgb(99, 98, 98);
+    margin-top: 25px;
+}
+
+.sneaker-text3 {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.sneaker-pen {
+    background-color: hsl(25, 100%, 94%);
+    color: hsl(26, 100%, 55%);
+    font-weight: 700;
+    font-size: 14px;
+    padding: 2px 4px;
+    border-radius: 6px;
+    margin-left: 7px;
+}
+
+.sneaker-sign {
+    background-color: #f7f8fd;
+    padding: 10px;
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+    align-items: center;
+
+
+}
+
+.sneaker-btn {
+    background-color: #ff7d1b;
+    /* padding: ; */
+    color: white;
+    font-size: 14px;
+    margin-left: 12px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
